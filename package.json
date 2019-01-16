@@ -1,0 +1,25 @@
+{
+  "name": "tests-http-requests",
+  "version": "1.0.0",
+  "description": "Testes a fazer pedidos Http",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/claudiohilario/tests-http-requests.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/claudiohilario/tests-http-requests/issues"
+  },
+  "homepage": "https://github.com/claudiohilario/tests-http-requests#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "multer": "^1.4.1"
+  }
+}
